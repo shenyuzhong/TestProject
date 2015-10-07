@@ -1,0 +1,24 @@
+C:\Users\Katherine\Google Drive\Python_CPP_cSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\bin\Release\CallCPPFunc.dll
+C:\Users\Katherine\Google Drive\Python_CPP_cSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\bin\Release\CallCPPFunc.pdb
+C:\Users\Katherine\Google Drive\Python_CPP_cSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Release\CallCPPFunc.dll
+C:\Users\Katherine\Google Drive\Python_CPP_cSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Release\CallCPPFunc.pdb
+C:\Users\Katherine\Google Drive\Python_CPP_cSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Release\CallCPPFunc.csprojResolveAssemblyReference.cache
+C:\Users\Katherine\Documents\Python_CPP_cSharp\UnityGame\MathTrial\Assets\Plugins\CallCPPFunc.dll
+C:\Users\Katherine\Documents\Python_CPP_cSharp\UnityGame\MathTrial\Assets\Plugins\CallCPPFunc.pdb
+C:\Users\Katherine\Documents\Python_CPP_cSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Release\CallCPPFunc.csprojResolveAssemblyReference.cache
+C:\Users\Katherine\Documents\Python_CPP_cSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Release\CallCPPFunc.dll
+C:\Users\Katherine\Documents\Python_CPP_cSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Release\CallCPPFunc.pdb
+C:\Users\Smith\Documents\Python_CPP_cSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Release\CallCPPFunc.dll
+C:\Users\Smith\Documents\Python_CPP_cSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Release\CallCPPFunc.pdb
+C:\Users\Smith\Documents\Python_CPP_cSharp\UnityGame\MathTrial\Assets\Plugins\CallCPPFunc.dll
+C:\Users\Smith\Documents\Python_CPP_cSharp\UnityGame\MathTrial\Assets\Plugins\CallCPPFunc.pdb
+C:\Users\Smith\Documents\Python_CPP_cSharp\NewUnityGame\MathTrial\Assets\Assets\Plugins\CallCPPFunc.dll
+C:\Users\Smith\Documents\Python_CPP_cSharp\NewUnityGame\MathTrial\Assets\Assets\Plugins\CallCPPFunc.pdb
+C:\Users\Smith\Documents\Python_CPP_cSharp\NewUnityGame\MathTrial\Assets\Plugins\CallCPPFunc.dll
+C:\Users\Smith\Documents\Python_CPP_cSharp\NewUnityGame\MathTrial\Assets\Plugins\CallCPPFunc.pdb
+C:\Users\Smith\Documents\Python_CPP_cSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Release\CallCPPFunc.csprojResolveAssemblyReference.cache
+C:\Users\klsmi\Documents\Python_C_CSharp\NewUnityGame\MathTrial\Assets\Plugins\CallCPPFunc.dll
+C:\Users\klsmi\Documents\Python_C_CSharp\NewUnityGame\MathTrial\Assets\Plugins\CallCPPFunc.pdb
+C:\Users\klsmi\Documents\Python_C_CSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Release\CallCPPFunc.dll
+C:\Users\klsmi\Documents\Python_C_CSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Release\CallCPPFunc.pdb
+C:\Users\klsmi\Documents\Python_C_CSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Release\CallCPPFunc.csprojResolveAssemblyReference.cache

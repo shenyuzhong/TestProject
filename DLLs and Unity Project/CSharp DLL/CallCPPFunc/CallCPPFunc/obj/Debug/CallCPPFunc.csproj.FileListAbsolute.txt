@@ -1,0 +1,5 @@
+C:\Users\Katherine\Google Drive\Python_CPP_cSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Debug\CallCPPFunc.csprojResolveAssemblyReference.cache
+C:\Users\Katherine\Google Drive\Python_CPP_cSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\bin\Debug\CallCPPFunc.dll
+C:\Users\Katherine\Google Drive\Python_CPP_cSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\bin\Debug\CallCPPFunc.pdb
+C:\Users\Katherine\Google Drive\Python_CPP_cSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Debug\CallCPPFunc.dll
+C:\Users\Katherine\Google Drive\Python_CPP_cSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Debug\CallCPPFunc.pdb
