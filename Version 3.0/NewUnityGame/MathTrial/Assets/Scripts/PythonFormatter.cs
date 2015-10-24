@@ -136,8 +136,8 @@ public class PythonFormatter : MonoBehaviour {
             Curve.FileName.StrData = fileName;
 
             Curve.SetEqColor(equationObject.GetComponent<UserEquationInput>().CurrentColor.r, equationObject.GetComponent<UserEquationInput>().CurrentColor.g, equationObject.GetComponent<UserEquationInput>().CurrentColor.b);
-       
-            //Debug.Log(quadCurve.ExprString.StrData);
+
+        Debug.Log(Application.persistentDataPath);
             
             //create PNG for Equation
             Curve.GenerateEqImage();
