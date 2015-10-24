@@ -63,6 +63,8 @@ extern "C"
 
 	void PyInit()
 	{
+		wchar_t searchPath[] = L"Python34";
+		Py_SetPythonHome(searchPath);
 		Py_Initialize();
 	}
 
