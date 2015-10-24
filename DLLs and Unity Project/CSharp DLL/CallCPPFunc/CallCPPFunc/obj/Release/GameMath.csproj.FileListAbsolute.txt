@@ -1,5 +1,0 @@
-C:\Users\klsmi\Documents\Python_C_CSharp\NewUnityGame\MathTrial\Assets\Plugins\CallCPPFunc.dll
-C:\Users\klsmi\Documents\Python_C_CSharp\NewUnityGame\MathTrial\Assets\Plugins\CallCPPFunc.pdb
-C:\Users\klsmi\Documents\Python_C_CSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Release\CallCPPFunc.dll
-C:\Users\klsmi\Documents\Python_C_CSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Release\CallCPPFunc.pdb
-C:\Users\klsmi\Documents\Python_C_CSharp\CSharp DLL\CallCPPFunc\CallCPPFunc\obj\Release\GameMath.csprojResolveAssemblyReference.cache

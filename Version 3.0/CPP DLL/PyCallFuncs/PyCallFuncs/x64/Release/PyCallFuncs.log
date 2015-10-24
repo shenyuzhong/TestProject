@@ -1,0 +1,18 @@
+﻿Build started 10/23/2015 10:23:32 PM.
+     1>Project "C:\Users\klsmi\Documents\Python_C_CSharp\Version 3.0 - Lite\CPP DLL\PyCallFuncs\PyCallFuncs\PyCallFuncs.vcxproj" on node 3 (Rebuild target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /IC:\Users\Smith\Anaconda3\include /IC:\Users\klsmi\Anaconda3\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D PYCALLFUNCS_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt PyCallFuncs.cpp
+         PyCallFuncs.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\..\NewUnityGame\MathTrial\Assets\Plugins\PyCallFuncs.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\Users\klsmi\Anaconda3\libs kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"..\..\..\NewUnityGame\MathTrial\Assets\Plugins\PyCallFuncs.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\..\NewUnityGame\MathTrial\Assets\Plugins\PyCallFuncs.lib" /MACHINE:X64 /DLL x64\Release\PyCallFuncs.obj
+            Creating library ..\..\..\NewUnityGame\MathTrial\Assets\Plugins\PyCallFuncs.lib and object ..\..\..\NewUnityGame\MathTrial\Assets\Plugins\PyCallFuncs.exp
+         Generating code
+         All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Finished generating code
+         PyCallFuncs.vcxproj -> C:\Users\klsmi\Documents\Python_C_CSharp\Version 3.0 - Lite\CPP DLL\PyCallFuncs\PyCallFuncs\..\..\..\NewUnityGame\MathTrial\Assets\Plugins\PyCallFuncs.dll
+     1>Done Building Project "C:\Users\klsmi\Documents\Python_C_CSharp\Version 3.0 - Lite\CPP DLL\PyCallFuncs\PyCallFuncs\PyCallFuncs.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.76
